@@ -1,5 +1,3 @@
-
-Portfolio
 # Bonjour, je suis Yanis El Idrissi
 
 ## À propos de moi
