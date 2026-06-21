@@ -1,6 +1,6 @@
-# yanis.el_idrissi
+
 Portfolio
-# Bonjour, je suis Yanis El Idribli
+# Bonjour, je suis Yanis El Idrissi
 
 ## À propos de moi
 
@@ -147,6 +147,6 @@ Je recherche une alternance pour la rentrée 2026 afin de gagner en expérience 
 Metz / Nancy - Grand Est
 
 LinkedIn :  
-www.linkedin.com/in/yanis-el-idrissi
+[www.linkedin.com/in/yanis-el-idrissi](https://www.linkedin.com/in/yanis-el-idrissi-010aaa291/)
 
 BUT Réseaux & Télécommunications – IUT Nancy-Brabois
